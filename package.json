@@ -1,0 +1,16 @@
+{
+  "name": "nekchet",
+  "version": "1.0.0",
+  "description": "Telegram Chat Bot Using Brainshop.Ai API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chatbotapi": "^1.4.2",
+    "slimbot": "^5.1.0"
+  }
+}
